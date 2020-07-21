@@ -1,0 +1,1 @@
+This project will be the first real application of HTML and CSS from the odin project.
